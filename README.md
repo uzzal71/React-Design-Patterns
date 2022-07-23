@@ -30,3 +30,11 @@ React: Design Patterns
 ## Uncontrolled onboarding flows
 ## Collecting onboarding data
 ## Controlled onboarding flows
+
+# 4. Higher-Order Components
+## What are higher-order components?
+## Printing props with HOCs
+## Loading data with HOCs
+## Modifying data data HOCs
+## Creating forms with HOCs
+## Higher-order component improvements
