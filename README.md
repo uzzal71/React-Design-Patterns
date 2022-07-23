@@ -2,7 +2,7 @@
 React: Design Patterns
 
 ## Introduction
-- [Take your React skills to the next level](#Take your React skills to the next level)
+- [Take your React skills to the next level](#take-your-react-skills-to-the-next-level)
 - [What should know](#What should know)
 - [What are design patterns?](#What are design patterns?)
 
