@@ -13,3 +13,12 @@ React: Design Patterns
 ## List and list items
 ## Creating different list types
 ## Modal components
+
+# 2. Container Components
+## What are container compoent
+## Server Instructions
+## CurrentUserLoad component
+## UserLoader component
+## ResourceLoader component
+## DataSource component
+## Loading data from localStorage
