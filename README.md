@@ -38,3 +38,10 @@ React: Design Patterns
 ## Modifying data data HOCs
 ## Creating forms with HOCs
 ## Higher-order component improvements
+
+# 5. Custom Hooks Patterns
+## What are custom Hooks?
+## useCurrentUser Hook
+## useUser Hook
+## useResource Hook
+## useDataSource Hook
