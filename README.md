@@ -22,3 +22,11 @@ React: Design Patterns
 ## ResourceLoader component
 ## DataSource component
 ## Loading data from localStorage
+
+# 3. Controlled adnd Uncontrolled Component
+## Controlled vs. uncontrolled components
+## Uncontrolled forms
+## Controlled modals
+## Uncontrolled onboarding flows
+## Collecting onboarding data
+## Controlled onboarding flows
