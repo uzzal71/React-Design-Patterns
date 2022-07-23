@@ -56,48 +56,48 @@ React: Design Patterns
 - [Next steps](#next-steps)
 
 
-# Take your React skills to the next level
-# What should know
-# What are design patterns?
+### Take your React skills to the next level
+### What should know
+### What are design patterns?
 
-# What are layout components?
-# Split-screen components
-# Split-screen component improvements
-# List and list items
-# Creating different list types
-# Modal components
+### What are layout components?
+### Split-screen components
+### Split-screen component improvements
+### List and list items
+### Creating different list types
+### Modal components
 
-# What are container compoent
-# Server Instructions
-# CurrentUserLoad component
-# UserLoader component
-# ResourceLoader component
-# DataSource component
-# Loading data from localStorage
+### What are container compoent
+### Server Instructions
+### CurrentUserLoad component
+### UserLoader component
+### ResourceLoader component
+### DataSource component
+### Loading data from localStorage
 
-# Controlled vs. uncontrolled components
-# Uncontrolled forms
-# Controlled modals
-# Uncontrolled onboarding flows
-# Collecting onboarding data
-# Controlled onboarding flows
+### Controlled vs. uncontrolled components
+### Uncontrolled forms
+### Controlled modals
+### Uncontrolled onboarding flows
+### Collecting onboarding data
+### Controlled onboarding flows
 
-# What are higher-order components?
-# Printing props with HOCs
-# Loading data with HOCs
-# Modifying data data HOCs
-# Creating forms with HOCs
-# Higher-order component improvements
+### What are higher-order components?
+### Printing props with HOCs
+### Loading data with HOCs
+### Modifying data data HOCs
+### Creating forms with HOCs
+### Higher-order component improvements
 
-# What are custom Hooks?
-# useCurrentUser Hook
-# useUser Hook
-# useResource Hook
-# useDataSource Hook
+### What are custom Hooks?
+### useCurrentUser Hook
+### useUser Hook
+### useResource Hook
+### useDataSource Hook
 
-# What is functional programming?
-# Recursive components
-# Component composition
-# Partially applied components
+### What is functional programming?
+### Recursive components
+### Component composition
+### Partially applied components
 
-# Next steps
+### Next steps
