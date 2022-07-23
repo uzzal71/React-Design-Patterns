@@ -45,3 +45,12 @@ React: Design Patterns
 ## useUser Hook
 ## useResource Hook
 ## useDataSource Hook
+
+# 6. Functional Programming and React
+## What is functional programming?
+## Recursive components
+## Component composition
+## Partially applied components
+
+# Conculation
+## Next steps
