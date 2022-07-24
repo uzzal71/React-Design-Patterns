@@ -57,6 +57,14 @@ React: Design Patterns
 
 
 ### Take your React skills to the next level
+Maybe you're learned the basics of React and are wondering where to go next.
+Or maybe you're looking to make Reactt development more intuitive for your self so that you can build anything you can imagine.
+Well, whatever the case, learning and mastering React design patterns might just be the way to take your software development career to another level. 
+I'am Uzzal Roy, and I'am a senior software developer and tech educator.
+The topics in this course represent many of the things that I look for when interviewing React developer candidates.
+Things that will take you from a begineer or intermediate level to an advanced level in React.
+Join me this course to learn React's most important design patterns, and see how to take your productivity and intuition in React to the next level.
+
 ### What should know
 ### What are design patterns?
 
