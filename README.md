@@ -32,7 +32,7 @@ React: Design Patterns
 - [Controlled onboarding flows](#controlled-onboarding-flows)
 
 ## 4. Higher-Order Components
-- [What are higher-order components?](#what-are-higher-order-components?)
+- [What are higher-order components?](#what-are-higher-order-components)
 - [Printing props with HOCs](#printing-props-with-HOCs)
 - [Loading data with HOCs](#loading-data-with-HOCs)
 - [Modifying data data HOCs](#modifying-data-data-HOCs)
@@ -40,7 +40,7 @@ React: Design Patterns
 - [Higher-order component improvements](#higher-order-component-improvements)
 
 ## 5. Custom Hooks Patterns
-- [What are custom Hooks?](#what-are-custom-hooks?)
+- [What are custom Hooks?](#what-are-custom-hooks)
 - [useCurrentUser Hook](#usecurrentUser-hook)
 - [useUser Hook](#useuser-hook)
 - [useResource Hook](#useResourcepHook)
@@ -168,6 +168,65 @@ Well, those are some of the common challenges we're going to be taking a look at
 So let's jump right into the first pattern.
 
 ### What are layout components?
+We're going to talk about are something called layout components. <br>
+
+#### Layout Components
+React components that deal primarily with arranging other components on the page. <br>
+
+Let's start off with a definition here Layout components are components in React whose primary concern is helping us to arrange other components that we create on the page. <br>
+
+Some examples of this that you're probable familiar with, and that we're going to be taking a look at throughout the rest of this chapter are splite screens, right?
+
+#### Layout Component Examples
+
+- Splite Screens
+
+So arranging more than one component in different sections of the page. <br>
+
+- Lists and Items
+
+We also have lists and items, right? So display data in a list, this is a surprisingle hard thing to get completely right. <br>
+
+- Modals
+
+And Modals, which as most of you know, is just content that gets displayed over top the actual page. <br>
+
+#### The Idea of Layout Component
+
+```
+<div styles={...}>
+    <h1>Component Code...</h1>
+</div>
+```
+So here's the basic idea of layout components and how we're going to go about creating them. <br>
+
+Normally, when we create a component, let's say we're creating a side nagivation for out site, right? <br>
+
+Just a bar on the left-hand side that contains some links. <br>
+
+The normal way we would go about doing that, as you can see in this code on theleft, is by actually including the div and the styles that go with that side nav inside the component itself. <br>
+
+```
+<div styles={...}>
+    {children}
+</div>
+```
+
+However, with layout components, what we do is splite the actual layout styles into the their own component, and then simply display the component itself, in this case, the side nav, inside that layout component. <br>
+```
+<>
+    <h1>Component Code...</h1>
+</>
+```
+And what this does is it separates the component itself from where the component's being displayed on the page, and it gives use a lot more flexibility for how we use it in the feture. <br>
+
+#### The Idea of Layout Components
+Out components shouldn't know where they're beign displayed. <br>
+
+So with all that said, the main idea of layout components is that out components that we create, right, the main content components of out pages, shouldn't know or care where it is that they're actually being displayed on the page. <br>
+
+So just keep that in mind that is the main idea of layout components.
+
 ### Split-screen components
 ### Split-screen component improvements
 ### List and list items
