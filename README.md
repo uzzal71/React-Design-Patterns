@@ -4,10 +4,10 @@ React: Design Patterns
 ## Introduction
 - [Take your React skills to the next level](#take-your-react-skills-to-the-next-level)
 - [What should know](#what-should-know)
-- [What are design patterns?](#what-are-design-patterns?)
+- [What are design patterns?](#what-are-design-patterns)
 
 ## 1. Layout Components
-- [What are layout components?](#what-are-layout-components?)
+- [What are layout components?](#what-are-layout-components)
 - [Split-screen components](#split-screen-components)
 - [Split-screen component improvements](#split-screen-component-improvements)
 - [List and list items](#list-and-list-items)
@@ -21,7 +21,7 @@ React: Design Patterns
 - [UserLoader component](#userloader-component)
 - [ResourceLoader component](#resourceLoader-component)
 - [DataSource component](#dataSource-component)
-- [Loading data from localStorage](#Loading-data-from-localStorage)
+- [Loading data from localStorage](#loading-data-from-localStorage)
 
 ## 3. Controlled adnd Uncontrolled Component
 - [Controlled vs. uncontrolled components](#controlled-vs-uncontrolled-components)
@@ -47,7 +47,7 @@ React: Design Patterns
 - [useDataSource Hook](#usedataSource-hook)
 
 ## 6. Functional Programming and React
-- [What is functional programming?](#what-is-functional-programming?)
+- [What is functional programming?](#what-is-functional-programming)
 - [Recursive components](#recursive-components)
 - [Component composition](#Component-composition)
 - [Partially applied components](#partially-applied-components)
