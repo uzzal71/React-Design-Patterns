@@ -66,6 +66,32 @@ Things that will take you from a begineer or intermediate level to an advanced l
 Join me this course to learn React's most important design patterns, and see how to take your productivity and intuition in React to the next level.
 
 ### What should know
+In order to get the most out of this course, there are a few things that it would be helpful for you to know beforehand.<br>
+
+##### What You Should Already Know
+- React basics
+- React Hooks
+- Making network requests in React
+- Functinal programming(not required)
+
+The first thing that it would be helpful for you to have is a basic experience with React, right? <br>
+
+Just knowing the basics behind how to React works should be sufficent.<br>
+
+You should also have some experience with React Hooks.<br>
+
+Now, hooks being a more recent addition to the React Library.<br>
+
+You might want to brush up on these before you start this course, since we'll be talking about those in detail.<br>
+
+It would also be helpful for you to have some experience making network requests in React.<br>
+
+And for this, if you haven't seen this already, I hight recommend my course on Full Stack Development with React.<br>
+
+And finally, a little bit of experience with functional programming would be very helpful, but this is not something that's required for this course. <br>
+
+So if you're missing one or more of these prerequisites, feel free to brush up on those beforehand. Otherwise let's get going.
+
 ### What are design patterns?
 
 ### What are layout components?
