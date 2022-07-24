@@ -58,11 +58,17 @@ React: Design Patterns
 
 ### Take your React skills to the next level
 Maybe you're learned the basics of React and are wondering where to go next.<br>
+
 Or maybe you're looking to make Reactt development more intuitive for your self so that you can build anything you can imagine.<br>
+
 Well, whatever the case, learning and mastering React design patterns might just be the way to take your software development career to another level. <br>
+
 I'am Uzzal Roy, and I'am a senior software developer and tech educator.<br>
+
 The topics in this course represent many of the things that I look for when interviewing React developer candidates.<br>
+
 Things that will take you from a begineer or intermediate level to an advanced level in React.<br>
+
 Join me this course to learn React's most important design patterns, and see how to take your productivity and intuition in React to the next level.
 
 ### What should know
@@ -93,6 +99,73 @@ And finally, a little bit of experience with functional programming would be ver
 So if you're missing one or more of these prerequisites, feel free to brush up on those beforehand. Otherwise let's get going.
 
 ### What are design patterns?
+We're going to be learning quite a few different React design patterns, but before we get into that, I wat to talk a little bit about what design patterns are in the first place.<br>
+
+#### Design Patterns:<hr>
+Design patterns are effective solutions to common application development challenges.<br>
+
+So the definition that I've come up with for design patterns is that design patterns are effective solutions to common application development challenges. <br>
+
+And notice here that i have effective underlined, because there are a lot of solutions to different problems that are not effective and that lead to more brittle code down the line and make your apps less performant and less maintainable.<br>
+
+Those are generally referred to as anti-patterns. <br>
+
+So design patterns are the positive equivalent of thouse, right? <br>
+
+So in other words, they're that most effective solutions to a given development challenge. <br>
+
+We'll see what I mean later on in the course. <br>
+
+#### A Caveat<hr>
+The design patterns we talk about in this course are not the Gang of Four OOP design patterns.<br>
+
+Now, one caveat before we move on is that many of you may have heard of design patterns used in a different context, such as object oriented programming. <br>
+
+Well, the design patterns that we're going to be talking about in this course are not those. <br>
+
+In other words, they're not the so-called Gang for Four object oriented programming design patterns, such as creational, behavioral patterns, et cetera. <br>
+
+There's something a little bit different. <br>
+
+- The patterns we cover here are effective solutons to some extremely common challenges in React.
+
+Basically the patterns that we're going to be covering here are things that I've personally run into time and time again in basically every React application I;ve worked on. <br>
+
+#### Common Challenges
+- Creating reusable layouts
+
+Some of these challenges include things like creating reusable layouts to put our components into, right? <br>
+
+We'll see later on how to make things <br>
+
+- Reusing complex logic between multiple components
+
+Another challenge is how do we reuse complex logic between our component? <br>
+
+In other words, if we have two or more components that need to do the same complex things such a load data from a server, <br>
+how do we best represent that in our React apps so that <br>
+we can share that code between those components<br>
+instead of having to copy and paste it.<br>
+
+- Working with forms
+
+Another extremely common challenge is working with forms in React.<br>
+
+This something that despite hundreds of articles out there on how to do this currectly, I still see done incorrectly quite frequently.<br>
+
+So we'll be discussing how to do that in React.<br>
+
+- Incorporating functional concepts into our code
+
+And finally, we're going to see from functional programming into our React apps. <br>
+
+This is something that I've been asked about quite frequently since my functional programming courses. <br>
+
+And Im very excited to share it with you in this course. <br>
+
+Well, those are some of the common challenges we're going to be taking a look at. <br>
+
+So let's jump right into the first pattern.
 
 ### What are layout components?
 ### Split-screen components
